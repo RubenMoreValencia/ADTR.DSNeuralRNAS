@@ -1,0 +1,3 @@
+"from","to","tipo_relacion","peso"
+"loss","y","relacion_sistemico_funcional",2
+"y","loss","relacion_sistemico_funcional",2

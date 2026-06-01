@@ -1,0 +1,8 @@
+"numero","interpretacion"
+1,"Se evaluo el acoplamiento interpretado exploratorio entre eta, grad_norm y mejora de loss."
+2,"La regla funcional evaluada fue eta_prev * grad_norm_prev -> mejora_loss, con evidencia clasificada como evidencia_funcional_alta."
+3,"La consistencia del patron conjunto fue consistencia_alta, con proporcion de patron completo igual a 1."
+4,"La dependencia funcional exploratoria se clasifico como dependencia_funcional_exploratoria_alta."
+5,"La evidencia de Nivel 5 fue clasificada como acoplamiento_interpretado_fuerte, con puntaje de criterios igual a 1."
+6,"La red alcanza evidencia exploratoria de Nivel 5; puede hablarse de acoplamiento interpretado, pero no de causalidad demostrada."
+7,"La lectura debe mantenerse prudente: el acoplamiento interpretado es una inferencia funcional apoyada por patrones, no una prueba causal."

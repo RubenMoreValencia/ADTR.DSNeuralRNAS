@@ -1,0 +1,5 @@
+"id","etiqueta","filas_matriz","cobertura_referencial","diversidad_representaciones","diversidad_roles","diversidad_funcional","diversidad_naturalezas","indice_trazabilidad","punto_critico","criterio_critico","tipo_punto"
+"eta","eta",3,3,3,3,3,3,1,TRUE,"alta cobertura referencial; alta diversidad funcional","senal_interna_transformacional"
+"grad_norm","grad_norm",3,3,3,3,3,3,1,TRUE,"alta cobertura referencial; alta diversidad funcional","senal_interna_transformacional"
+"loss","loss",3,3,3,3,3,3,1,TRUE,"alta cobertura referencial; alta diversidad funcional","senal_interna_transformacional"
+"y","y",5,4,5,5,5,5,1,TRUE,"alta cobertura referencial; alta diversidad funcional","punto_factual_observado"

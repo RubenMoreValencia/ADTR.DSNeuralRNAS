@@ -1,0 +1,6 @@
+"tipo_transformacion","frecuencia","proporcion"
+"complementariedad",2,0.1
+"emergencia_funcional",2,0.1
+"equivalencia_parcial",7,0.35
+"no_reducibilidad",6,0.3
+"relacion_indeterminada",3,0.15

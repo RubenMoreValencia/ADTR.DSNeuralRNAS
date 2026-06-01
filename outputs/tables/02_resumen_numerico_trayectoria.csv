@@ -1,0 +1,2 @@
+"iteraciones","loss_inicial","loss_final","reduccion_loss_abs","reduccion_loss_rel","grad_norm_inicial","grad_norm_final","reduccion_grad_abs","reduccion_grad_rel","eta_inicial","eta_final","cambio_eta_abs","cambio_eta_rel"
+5,0.12,0.02,0.1,0.833333333333333,0.9,0.1,0.8,0.888888888888889,0.1,0.05,-0.05,-0.5

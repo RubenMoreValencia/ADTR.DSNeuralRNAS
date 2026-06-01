@@ -1,0 +1,5 @@
+"punto","filas_matriz","cobertura_referencial","diversidad_representaciones","diversidad_roles","diversidad_funcional","diversidad_naturalezas","indice_trazabilidad","punto_critico","criterio_critico"
+"y",5,4,5,5,5,5,1,TRUE,"alta cobertura referencial; alta diversidad funcional"
+"loss",3,3,3,3,3,3,1,TRUE,"alta cobertura referencial; alta diversidad funcional"
+"grad_norm",3,3,3,3,3,3,1,TRUE,"alta cobertura referencial; alta diversidad funcional"
+"eta",3,3,3,3,3,3,1,TRUE,"alta cobertura referencial; alta diversidad funcional"

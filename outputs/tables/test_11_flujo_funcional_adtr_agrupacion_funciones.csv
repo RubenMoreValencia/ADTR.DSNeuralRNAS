@@ -1,0 +1,14 @@
+"funcion","puntos","numero_puntos"
+"orientar el ajuste del modelo","y, loss",2
+"ajustar la dinamica de aprendizaje","eta",1
+"apoyar decisiones de ajuste de tasa o control","grad_norm",1
+"aproximar la variable observada","y",1
+"caracterizar estabilidad del aprendizaje","loss",1
+"caracterizar intensidad y estabilizacion del aprendizaje","grad_norm",1
+"caracterizar una politica de aprendizaje","eta",1
+"evaluar mejora y posible ajuste","loss",1
+"evaluar necesidad de correccion","y",1
+"regular la magnitud de actualizacion","eta",1
+"representar el valor factual de referencia","y",1
+"representar presion de ajuste","grad_norm",1
+"valorar la calidad de la representacion aprendida","y",1

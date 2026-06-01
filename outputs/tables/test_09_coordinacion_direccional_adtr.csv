@@ -1,0 +1,4 @@
+"punto_1","punto_2","coincidencias","total_cambios","proporcion_coincidencia","tipo_coordinacion"
+"loss","grad_norm",4,4,1,"coordinacion_direccional_alta"
+"loss","eta",2,4,0.5,"coordinacion_direccional_moderada"
+"grad_norm","eta",2,4,0.5,"coordinacion_direccional_moderada"

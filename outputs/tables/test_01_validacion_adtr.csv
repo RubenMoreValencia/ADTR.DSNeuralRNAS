@@ -1,0 +1,5 @@
+"prueba","resultado"
+"validaciones_correctas",TRUE
+"detecta_matriz_incompleta",TRUE
+"detecta_indice_fuera_rango",TRUE
+"detecta_arista_sin_nodo",TRUE

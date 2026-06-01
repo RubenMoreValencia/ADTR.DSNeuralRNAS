@@ -1,0 +1,5 @@
+"objeto","componente","fuente_programatica","nivel","posible_punto_adtr","sistema_referencial_probable","lectura_adtr","requiere_revision"
+"ajuste_demo","trayectoria$iter","ajuste_demo$trayectoria$iter","trayectoria","pendiente_de_clasificacion","por_revisar","Requiere inspección conceptual y programática.",TRUE
+"ajuste_demo","trayectoria$loss","ajuste_demo$trayectoria$loss","trayectoria","perdida","S_apr / S_ctrl / S_learned","Puede leerse como error, tensión de aprendizaje, frontera o evidencia dinámica.",FALSE
+"ajuste_demo","trayectoria$grad_norm","ajuste_demo$trayectoria$grad_norm","trayectoria","gradiente","S_apr / S_ctrl / S_learned","Puede leerse como presión de ajuste, dirección de cambio o señal dinámica.",FALSE
+"ajuste_demo","trayectoria$eta","ajuste_demo$trayectoria$eta","trayectoria","tasa_de_aprendizaje","S_apr / S_ctrl / S_learned","Puede leerse como parámetro operativo, variable de control o política de tasa.",FALSE

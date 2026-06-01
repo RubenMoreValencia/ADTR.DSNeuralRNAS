@@ -1,0 +1,8 @@
+"objeto","componente","posible_punto_adtr","sistema_referencial_probable","lectura_adtr","requiere_revision"
+"ajuste_demo","unidad","estructura de aprendizaje","S_apr","Puede leerse como marco de aprendizaje o configuración del sistema.",TRUE
+"ajuste_demo","preparado","pendiente de clasificación","por revisar","Requiere inspección conceptual y programática.",TRUE
+"ajuste_demo","params_finales","parámetro aprendido","S_apr / S_learned","Puede leerse como estado aprendido o componente paramétrico.",FALSE
+"ajuste_demo","prediccion","predicción","S_apr","Puede leerse como salida estimada o representación aprendida.",FALSE
+"ajuste_demo","trayectoria","trayectoria","S_apr / S_learned","Puede leerse como evidencia dinámica del aprendizaje.",FALSE
+"ajuste_demo","metricas","métrica","S_apr / S_learned","Puede apoyar evaluación, trazabilidad y comparación del aprendizaje.",FALSE
+"ajuste_demo","creado","pendiente de clasificación","por revisar","Requiere inspección conceptual y programática.",TRUE

@@ -1,0 +1,7 @@
+"prueba","resultado"
+"inspeccion_componentes_base",TRUE
+"detecta_loss",TRUE
+"detecta_grad_norm",TRUE
+"detecta_eta",TRUE
+"selecciona_puntos_trazables",TRUE
+"detecta_objeto_sin_nombres",TRUE

@@ -1,0 +1,2 @@
+"necesidad","existe_en_dsneuralrnas","existe_en_mldsneuralrnas","puede_derivarse","utilidad_aplicada","escalamiento","decision","justificacion"
+"Clasificar transformaciones T_ij entre sistemas referenciales",FALSE,FALSE,TRUE,TRUE,TRUE,"derivar_de_salidas_existentes","La necesidad puede resolverse combinando salidas existentes y reglas interpretativas."

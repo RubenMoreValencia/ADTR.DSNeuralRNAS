@@ -1,0 +1,8 @@
+"componente","clase","longitud","filas","columnas"
+"unidad","list",3,NA,NA
+"preparado","data.frame",3,3,3
+"params_finales","list",2,NA,NA
+"prediccion","numeric",3,NA,NA
+"trayectoria","data.frame",4,5,4
+"metricas","list",3,NA,NA
+"creado","POSIXct, POSIXt",1,NA,NA

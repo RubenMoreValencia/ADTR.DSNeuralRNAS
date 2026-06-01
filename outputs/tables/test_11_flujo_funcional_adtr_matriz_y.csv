@@ -1,0 +1,6 @@
+"punto","sistema","representacion","rol","funcion","naturaleza","fuente_programatica","observacion"
+"y","S_obs","preparado$y","variable observada","representar el valor factual de referencia","dato factual observado","ajuste_demo$preparado$y","La variable objetivo aparece como dato observado."
+"y","S_apr","unidad$variable_objetivo = y","objetivo de aprendizaje","orientar el ajuste del modelo","referente supervisado","ajuste_demo$unidad$variable_objetivo","La variable objetivo define el referente del aprendizaje."
+"y","S_apr","prediccion","salida estimada","aproximar la variable observada","representacion aprendida","ajuste_demo$prediccion","La prediccion representa la forma aprendida de la variable objetivo."
+"y","S_ctrl","error observado-predicho","senal de discrepancia","evaluar necesidad de correccion","senal diagnostica","ajuste_demo$preparado$y - ajuste_demo$prediccion","La diferencia observado-predicho puede orientar revision del ajuste."
+"y","S_learned","comparacion observado-predicho","componente aprendido evaluable","valorar la calidad de la representacion aprendida","evidencia de aprendizaje","ajuste_demo$metricas","La variable aprendida se evalua mediante metricas y comparacion."

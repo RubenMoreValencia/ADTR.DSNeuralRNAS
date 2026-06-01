@@ -1,0 +1,12 @@
+"prueba","resultado"
+"red_4_nodos",TRUE
+"red_12_aristas",TRUE
+"pesos_correctos",TRUE
+"detecta_y_loss_centrales",TRUE
+"centralidad_y_loss_1",TRUE
+"matriz_adyacencia_4x4",TRUE
+"resumen_relaciones_12",TRUE
+"genera_interpretacion",TRUE
+"genera_figura",TRUE
+"detecta_arista_sin_nodo",TRUE
+"detecta_umbral_fuera_rango",TRUE

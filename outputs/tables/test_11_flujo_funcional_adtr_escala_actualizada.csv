@@ -1,0 +1,6 @@
+"nivel","tipo","evidencia_actual","observacion"
+"Nivel 1","coexistencia referencial",TRUE,"Los puntos pertenecen al mismo conjunto ADTR."
+"Nivel 2","relacion por sistema",TRUE,"Existen puntos que comparten sistemas referenciales."
+"Nivel 3","relacion funcional",TRUE,"Existen puntos que comparten sistemas y una funcion comun."
+"Nivel 4","relacion dinamica",TRUE,"Se observa coordinacion dinamica entre senales de trayectoria."
+"Nivel 5","acoplamiento interpretado",TRUE,"Existe evidencia exploratoria de acoplamiento interpretado; no debe leerse como causalidad."

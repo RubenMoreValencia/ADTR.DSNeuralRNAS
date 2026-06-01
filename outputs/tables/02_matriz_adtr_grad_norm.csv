@@ -1,0 +1,4 @@
+"punto","sistema","representacion","rol","funcion","naturaleza","fuente_programatica","observacion"
+"grad_norm","S_apr","trayectoria$grad_norm","magnitud del gradiente","representar presión de ajuste","señal diferencial del aprendizaje","ajuste_demo$trayectoria$grad_norm","La norma del gradiente resume la intensidad de cambio durante el aprendizaje."
+"grad_norm","S_ctrl","nivel de presión dinámica","indicador de estabilidad o inestabilidad","apoyar decisiones de ajuste de tasa o control","señal de control potencial","ajuste_demo$trayectoria$grad_norm","Valores altos o persistentes pueden interpretarse como presión de ajuste."
+"grad_norm","S_learned","patrón de presión de aprendizaje","componente dinámico aprendido","caracterizar intensidad y estabilización del aprendizaje","evidencia de dinámica interna","ajuste_demo$trayectoria","La trayectoria de grad_norm puede contribuir a identificar regímenes."

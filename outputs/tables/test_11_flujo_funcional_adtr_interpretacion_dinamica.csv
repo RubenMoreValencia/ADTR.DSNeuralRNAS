@@ -1,0 +1,7 @@
+"numero","interpretacion"
+1,"Se evaluaron relaciones dinamicas entre loss, grad_norm y eta sobre la trayectoria de aprendizaje."
+2,"La trayectoria muestra reduccion importante de loss y grad_norm, acompanada por disminucion de eta; esto sugiere estabilizacion progresiva con menor intensidad de actualizacion."
+3,"Se identificaron 4 evidencias de relacion dinamica de Nivel 4."
+4,"Con esta evidencia, la red ADTR alcanza Nivel 4 en la escala relacional ecosistemica."
+5,"A pesar de la coordinacion dinamica, aun no se afirma acoplamiento interpretado de Nivel 5 ni causalidad."
+6,"La lectura correcta es ampliar la base ecosistemica preliminar hacia una base ecosistemica con evidencia dinamica."

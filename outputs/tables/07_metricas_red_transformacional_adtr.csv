@@ -1,0 +1,5 @@
+"punto","grado_salida","grado_entrada","grado_total","peso_salida","peso_entrada","peso_total","centralidad_grado","centralidad_peso"
+"eta",3,3,6,3,3,6,1,0.75
+"grad_norm",3,3,6,3,3,6,1,0.75
+"loss",3,3,6,4,4,8,1,1
+"y",3,3,6,4,4,8,1,1

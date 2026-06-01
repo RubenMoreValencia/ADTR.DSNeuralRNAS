@@ -1,0 +1,4 @@
+"punto","cobertura_referencial","diversidad_representaciones","diversidad_roles","diversidad_funcional","diversidad_naturalezas","indice_trazabilidad"
+"loss",3,3,3,3,3,1
+"grad_norm",3,3,3,3,3,1
+"eta",3,3,3,3,3,1

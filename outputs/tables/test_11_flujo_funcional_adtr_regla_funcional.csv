@@ -1,0 +1,2 @@
+"regla","correlacion_producto_mejora","tipo_evidencia","proporcion_mejora_loss","observacion"
+"eta_prev * grad_norm_prev -> mejora_loss",0.990012976679754,"evidencia_funcional_alta",1,"Relacion funcional exploratoria; no implica causalidad."

@@ -1,0 +1,2 @@
+"necesidad","puede_derivarse","utilidad_aplicada","escalamiento","decision","justificacion"
+"Construir red transformacional ADTR desde puntos y relaciones existentes",TRUE,TRUE,TRUE,"posible_funcionalidad_auxiliar_de_red","La red transformacional puede derivarse de colecciones ADTR existentes. Por escalamiento, visualización y análisis de relaciones, podría justificarse una función auxiliar para construir nodos, aristas, métricas y matrices de adyacencia."

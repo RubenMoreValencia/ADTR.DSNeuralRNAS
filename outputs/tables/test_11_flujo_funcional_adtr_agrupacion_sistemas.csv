@@ -1,0 +1,5 @@
+"sistema","puntos","numero_puntos"
+"S_apr","y, loss, grad_norm, eta",4
+"S_ctrl","y, loss, grad_norm, eta",4
+"S_learned","y, loss, grad_norm, eta",4
+"S_obs","y",1

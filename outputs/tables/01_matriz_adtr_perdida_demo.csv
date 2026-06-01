@@ -1,0 +1,4 @@
+"punto","sistema","representacion","rol","funcion","naturaleza","fuente_programatica","observacion"
+"loss","S_apr","trayectoria$loss","medida de error","orientar el ajuste del modelo","señal de aprendizaje","ajuste_demo$trayectoria$loss","La pérdida aparece como trayectoria del proceso de aprendizaje."
+"loss","S_ctrl","reducción de pérdida","criterio de control","evaluar mejora y posible ajuste","señal diagnóstica","ajuste_demo$metricas$reduccion_rel","La reducción de pérdida puede apoyar decisiones de ajuste."
+"loss","S_learned","resumen de trayectoria","componente dinámico aprendido","caracterizar estabilidad del aprendizaje","evidencia dinámica","ajuste_demo$trayectoria","La trayectoria puede contribuir a una lectura de régimen."

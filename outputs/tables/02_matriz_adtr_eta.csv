@@ -1,0 +1,4 @@
+"punto","sistema","representacion","rol","funcion","naturaleza","fuente_programatica","observacion"
+"eta","S_apr","trayectoria$eta","tasa de aprendizaje","regular la magnitud de actualización","parámetro operativo","ajuste_demo$trayectoria$eta","Eta regula la intensidad de actualización durante el entrenamiento."
+"eta","S_ctrl","secuencia de eta","variable de control","ajustar la dinámica de aprendizaje","componente de control adaptativo","ajuste_demo$trayectoria$eta","Cambios en eta pueden interpretarse como acciones de control."
+"eta","S_learned","patrón de política de tasa","evidencia de estrategia adaptativa","caracterizar una política de aprendizaje","evidencia meta-dinámica","ajuste_demo$trayectoria","La secuencia de eta puede leerse como política o patrón adaptativo."

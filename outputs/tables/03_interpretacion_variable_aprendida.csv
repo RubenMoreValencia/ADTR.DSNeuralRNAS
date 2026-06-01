@@ -1,0 +1,4 @@
+"numero","interpretacion"
+1,"El error RMSE es bajo para el ejemplo evaluado; la predicción se aproxima adecuadamente al valor observado."
+2,"El error medio se mantiene cercano a cero; no se observa sesgo promedio marcado en este ejemplo."
+3,"Desde ADTR, la variable aprendida conserva identidad factual mínima como dato observado, pero adquiere representación aprendida, señal diagnóstica y evidencia de aprendizaje según el sistema referencial."

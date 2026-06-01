@@ -1,0 +1,15 @@
+"objeto","componente","fuente_programatica","nivel","posible_punto_adtr","sistema_referencial_probable","lectura_adtr","requiere_revision"
+"ajuste_demo","unidad","ajuste_demo$unidad","componente","estructura_de_aprendizaje","S_apr","Puede leerse como marco de configuración del aprendizaje.",TRUE
+"ajuste_demo","preparado","ajuste_demo$preparado","componente","base_observada_preparada","S_obs / S_apr","Puede contener puntos factuales observados y entradas de aprendizaje.",TRUE
+"ajuste_demo","preparado$x1","ajuste_demo$preparado$x1","columna_interna","pendiente_de_clasificacion","por_revisar","Requiere inspección conceptual y programática.",TRUE
+"ajuste_demo","preparado$x2","ajuste_demo$preparado$x2","columna_interna","pendiente_de_clasificacion","por_revisar","Requiere inspección conceptual y programática.",TRUE
+"ajuste_demo","preparado$y","ajuste_demo$preparado$y","columna_interna","pendiente_de_clasificacion","por_revisar","Requiere inspección conceptual y programática.",TRUE
+"ajuste_demo","params_finales","ajuste_demo$params_finales","componente","parametro_aprendido","S_apr / S_learned","Puede leerse como estado paramétrico aprendido.",FALSE
+"ajuste_demo","prediccion","ajuste_demo$prediccion","componente","prediccion","S_apr / S_learned","Puede leerse como salida estimada o representación aprendida.",FALSE
+"ajuste_demo","trayectoria","ajuste_demo$trayectoria","componente","trayectoria","S_apr / S_ctrl / S_learned","Puede leerse como evidencia dinámica del proceso de aprendizaje.",TRUE
+"ajuste_demo","trayectoria$iter","ajuste_demo$trayectoria$iter","columna_interna","pendiente_de_clasificacion","por_revisar","Requiere inspección conceptual y programática.",TRUE
+"ajuste_demo","trayectoria$loss","ajuste_demo$trayectoria$loss","columna_interna","perdida","S_apr / S_ctrl / S_learned","Puede leerse como error, tensión de aprendizaje, frontera o evidencia dinámica.",FALSE
+"ajuste_demo","trayectoria$grad_norm","ajuste_demo$trayectoria$grad_norm","columna_interna","gradiente","S_apr / S_ctrl / S_learned","Puede leerse como presión de ajuste, dirección de cambio o señal dinámica.",FALSE
+"ajuste_demo","trayectoria$eta","ajuste_demo$trayectoria$eta","columna_interna","tasa_de_aprendizaje","S_apr / S_ctrl / S_learned","Puede leerse como parámetro operativo, variable de control o política de tasa.",FALSE
+"ajuste_demo","metricas","ajuste_demo$metricas","componente","metrica","S_learned","Puede apoyar evaluación, trazabilidad y comparación del aprendizaje.",FALSE
+"ajuste_demo","creado","ajuste_demo$creado","componente","pendiente_de_clasificacion","por_revisar","Requiere inspección conceptual y programática.",TRUE

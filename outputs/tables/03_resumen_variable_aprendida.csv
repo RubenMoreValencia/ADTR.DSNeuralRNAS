@@ -1,0 +1,2 @@
+"variable","n","observado_min","observado_max","predicho_min","predicho_max","error_medio","mae","mse","rmse"
+"y",3,0.5,0.7,0.48,0.69,0.00333333333333334,0.0166666666666667,0.000300000000000001,0.0173205080756888

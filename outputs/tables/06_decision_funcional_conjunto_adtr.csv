@@ -1,0 +1,2 @@
+"necesidad","puede_derivarse","utilidad_aplicada","escalamiento","decision","justificacion"
+"Integrar múltiples puntos ADTR en un conjunto multirreferencial",TRUE,TRUE,TRUE,"posible_funcionalidad_auxiliar_de_integracion","El análisis de conjuntos puede derivarse de matrices ADTR existentes. Sin embargo, por escalamiento y repetibilidad, podría justificarse una función auxiliar para unir matrices, comparar métricas e identificar puntos críticos."

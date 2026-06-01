@@ -1,0 +1,2 @@
+"nivel","tipo","evidencia_nivel5","tipo_acoplamiento","puntaje_criterios","cumple_regla_funcional","cumple_consistencia","cumple_dependencia_exploratoria","observacion"
+"Nivel 5","acoplamiento interpretado",TRUE,"acoplamiento_interpretado_fuerte",1,TRUE,TRUE,TRUE,"Acoplamiento interpretado exploratorio; no constituye prueba causal."

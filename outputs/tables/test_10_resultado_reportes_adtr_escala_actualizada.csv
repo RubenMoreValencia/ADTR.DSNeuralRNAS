@@ -1,0 +1,6 @@
+"nivel","tipo","evidencia_actual"
+"Nivel 1","coexistencia referencial",TRUE
+"Nivel 2","relacion por sistema",TRUE
+"Nivel 3","relacion funcional",TRUE
+"Nivel 4","relacion dinamica",TRUE
+"Nivel 5","acoplamiento interpretado",TRUE

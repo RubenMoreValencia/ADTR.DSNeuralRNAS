@@ -1,0 +1,5 @@
+"iter","loss","grad_norm","eta","delta_loss","delta_grad_norm","delta_eta","direccion_loss","direccion_grad_norm","direccion_eta"
+2,0.08,0.65,0.1,-0.04,-0.25,0,"disminuye","disminuye","estable"
+3,0.05,0.4,0.08,-0.03,-0.25,-0.02,"disminuye","disminuye","disminuye"
+4,0.03,0.22,0.08,-0.02,-0.18,0,"disminuye","disminuye","estable"
+5,0.02,0.1,0.05,-0.01,-0.12,-0.03,"disminuye","disminuye","disminuye"

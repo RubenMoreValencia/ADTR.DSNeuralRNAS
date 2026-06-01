@@ -1,0 +1,7 @@
+"numero","interpretacion"
+1,"Se evaluaron relaciones dinámicas entre loss, grad_norm y eta sobre la trayectoria de aprendizaje."
+2,"La trayectoria muestra reducción importante de loss y grad_norm, acompañada por disminución de eta; esto sugiere estabilización progresiva con menor intensidad de actualización."
+3,"Se identificaron 4 evidencias de relación dinámica de Nivel 4."
+4,"Con esta evidencia, la red ADTR alcanza Nivel 4 en la escala relacional ecosistémica."
+5,"A pesar de la coordinación dinámica, aún no se afirma acoplamiento interpretado de Nivel 5 ni causalidad."
+6,"La lectura correcta es ampliar la base ecosistémica preliminar hacia una base ecosistémica con evidencia dinámica, manteniendo pendiente la validación de acoplamientos fuertes."

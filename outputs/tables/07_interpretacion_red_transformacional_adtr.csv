@@ -1,0 +1,7 @@
+"numero","interpretacion"
+1,"La red transformacional ADTR contiene 4 nodos y 12 aristas dirigidas."
+2,"Los tipos de relación observados son: relacion_por_sistema=10; relacion_sistemico_funcional=2."
+3,"Se identificaron 2 nodos centrales según centralidad ponderada."
+4,"Los nodos centrales son: loss, y."
+5,"La red contiene relaciones sistémico-funcionales, lo que indica que algunos puntos comparten sistemas y funciones, no solo coexistencia referencial."
+6,"La red combina al menos un punto factual observado con señales internas transformacionales, permitiendo conectar dato, aprendizaje, control y evidencia aprendida."

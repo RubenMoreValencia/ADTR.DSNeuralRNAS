@@ -1,0 +1,7 @@
+"numero","interpretacion"
+1,"El conjunto ADTR evaluado contiene 4 puntos referenciales."
+2,"Se identificaron 4 puntos críticos según cobertura, diversidad funcional o trazabilidad."
+3,"La cobertura referencial promedio del conjunto es 3.25."
+4,"El índice promedio de trazabilidad es 1."
+5,"Todas las matrices del conjunto mantienen trazabilidad completa hacia fuentes programáticas."
+6,"Las relaciones entre puntos muestran los siguientes tipos: relacion_por_sistema=10; relacion_sistemico_funcional=2."

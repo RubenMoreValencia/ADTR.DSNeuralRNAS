@@ -1,0 +1,11 @@
+Reporte de prueba ADTR
+======================
+
+1. El flujo ADTR evaluó 4 puntos referenciales.
+2. La red transformacional contiene 4 nodos y 2 aristas.
+3. Los nodos centrales identificados son: loss, y.
+4. El índice de madurez ecosistémica es 1, clasificado como base_ecosistemica_alta.
+5. La estructura alcanza evidencia de relación dinámica de Nivel 4.
+6. La estructura alcanza evidencia exploratoria de acoplamiento interpretado de Nivel 5.
+7. La evidencia de acoplamiento fue clasificada como acoplamiento_interpretado_fuerte.
+8. La decisión funcional del flujo fue: posible_ecosistema_dinamico_aprendido_exploratorio.

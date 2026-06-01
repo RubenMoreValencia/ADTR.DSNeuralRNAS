@@ -1,0 +1,4 @@
+"numero","interpretacion"
+1,"La pérdida muestra una reducción relativa alta; puede interpretarse como mejora clara del ajuste."
+2,"La norma del gradiente disminuye de forma importante; esto sugiere menor presión de ajuste hacia el final."
+3,"La tasa eta disminuye durante la trayectoria; puede leerse como reducción de intensidad de aprendizaje."

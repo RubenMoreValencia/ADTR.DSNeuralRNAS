@@ -1,0 +1,2 @@
+"loss_inicial","loss_final","reduccion_loss_rel","grad_norm_inicial","grad_norm_final","reduccion_grad_norm_rel","eta_inicial","eta_final","cambio_eta_rel","patron_estabilizacion"
+0.12,0.02,0.833333333333333,0.9,0.1,0.888888888888889,0.1,0.05,-0.5,"estabilizacion_progresiva_con_reduccion_de_intensidad"

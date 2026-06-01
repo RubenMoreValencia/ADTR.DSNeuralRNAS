@@ -1,0 +1,2 @@
+"modelo","r2","pendiente","intercepto","tipo_dependencia","observacion"
+"mejora_loss ~ producto_eta_grad_prev",0.980125693994307,0.391736888087253,0.00496265817433701,"dependencia_funcional_exploratoria_alta","Modelo exploratorio; no debe interpretarse como causalidad."

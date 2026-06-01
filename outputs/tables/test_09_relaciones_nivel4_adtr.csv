@@ -1,0 +1,5 @@
+"punto_origen","punto_destino","nivel","tipo_relacion","evidencia","valor","justificacion"
+"loss","grad_norm","Nivel 4","relacion_dinamica_coordinada","coordinacion_direccional_alta",1,"La proporcion de coincidencia direccional entre loss y grad_norm es 1."
+"loss","eta","Nivel 4","relacion_dinamica_coordinada","coordinacion_direccional_moderada",0.5,"La proporcion de coincidencia direccional entre loss y eta es 0.5."
+"grad_norm","eta","Nivel 4","relacion_dinamica_coordinada","coordinacion_direccional_moderada",0.5,"La proporcion de coincidencia direccional entre grad_norm y eta es 0.5."
+"loss_grad_norm_eta","trayectoria_aprendizaje","Nivel 4","patron_dinamico_conjunto","estabilizacion_progresiva_con_reduccion_de_intensidad",1,"La perdida y la norma del gradiente disminuyen de forma importante, mientras eta reduce la intensidad de actualizacion."

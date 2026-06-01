@@ -1,0 +1,5 @@
+"punto","grado_salida","grado_entrada","grado_total","peso_salida","peso_entrada","peso_total","centralidad_grado","centralidad_peso","nodo_central","criterio_centralidad"
+"eta",3,3,6,3,3,6,1,0.75,FALSE,"centralidad moderada o baja"
+"grad_norm",3,3,6,3,3,6,1,0.75,FALSE,"centralidad moderada o baja"
+"loss",3,3,6,4,4,8,1,1,TRUE,"alta centralidad ponderada en la red ADTR"
+"y",3,3,6,4,4,8,1,1,TRUE,"alta centralidad ponderada en la red ADTR"

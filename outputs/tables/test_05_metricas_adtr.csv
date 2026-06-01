@@ -1,0 +1,8 @@
+"prueba","resultado"
+"metricas_referenciales_correctas",TRUE
+"metricas_transformacionales_correctas",TRUE
+"integra_metricas",TRUE
+"indice_en_rango_unitario",TRUE
+"genera_interpretacion_integrada",TRUE
+"detecta_varios_puntos",TRUE
+"detecta_pesos_incompletos",TRUE

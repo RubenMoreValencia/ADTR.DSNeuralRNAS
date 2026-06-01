@@ -1,0 +1,13 @@
+"from","to","tipo_relacion","sistemas_comunes","funciones_comunes","justificacion","peso"
+"loss","y","relacion_sistemico_funcional","S_apr, S_ctrl, S_learned","orientar el ajuste del modelo","Los puntos comparten sistemas: S_apr, S_ctrl, S_learned y funciones: orientar el ajuste del modelo.",2
+"grad_norm","y","relacion_por_sistema","S_apr, S_ctrl, S_learned","","Los puntos comparten sistemas referenciales: S_apr, S_ctrl, S_learned.",1
+"eta","y","relacion_por_sistema","S_apr, S_ctrl, S_learned","","Los puntos comparten sistemas referenciales: S_apr, S_ctrl, S_learned.",1
+"y","loss","relacion_sistemico_funcional","S_apr, S_ctrl, S_learned","orientar el ajuste del modelo","Los puntos comparten sistemas: S_apr, S_ctrl, S_learned y funciones: orientar el ajuste del modelo.",2
+"grad_norm","loss","relacion_por_sistema","S_apr, S_ctrl, S_learned","","Los puntos comparten sistemas referenciales: S_apr, S_ctrl, S_learned.",1
+"eta","loss","relacion_por_sistema","S_apr, S_ctrl, S_learned","","Los puntos comparten sistemas referenciales: S_apr, S_ctrl, S_learned.",1
+"y","grad_norm","relacion_por_sistema","S_apr, S_ctrl, S_learned","","Los puntos comparten sistemas referenciales: S_apr, S_ctrl, S_learned.",1
+"loss","grad_norm","relacion_por_sistema","S_apr, S_ctrl, S_learned","","Los puntos comparten sistemas referenciales: S_apr, S_ctrl, S_learned.",1
+"eta","grad_norm","relacion_por_sistema","S_apr, S_ctrl, S_learned","","Los puntos comparten sistemas referenciales: S_apr, S_ctrl, S_learned.",1
+"y","eta","relacion_por_sistema","S_apr, S_ctrl, S_learned","","Los puntos comparten sistemas referenciales: S_apr, S_ctrl, S_learned.",1
+"loss","eta","relacion_por_sistema","S_apr, S_ctrl, S_learned","","Los puntos comparten sistemas referenciales: S_apr, S_ctrl, S_learned.",1
+"grad_norm","eta","relacion_por_sistema","S_apr, S_ctrl, S_learned","","Los puntos comparten sistemas referenciales: S_apr, S_ctrl, S_learned.",1

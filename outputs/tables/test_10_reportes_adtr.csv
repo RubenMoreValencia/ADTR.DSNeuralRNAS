@@ -1,0 +1,13 @@
+"prueba","resultado"
+"crea_directorios",TRUE
+"exporta_tabla",TRUE
+"exporta_rds",TRUE
+"exporta_csv_componentes",TRUE
+"genera_resumen_textual",TRUE
+"genera_reporte_txt",TRUE
+"crea_indice_archivos",TRUE
+"resumen_detecta_nivel5",TRUE
+"resumen_detecta_decision",TRUE
+"detecta_tabla_no_dataframe",TRUE
+"detecta_resultado_no_lista",TRUE
+"detecta_titulo_vacio",TRUE
